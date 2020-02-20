@@ -1,0 +1,14 @@
+{
+  "name": "question2",
+  "version": "1.0.0",
+  "description": "gets a json with partners, filters by distance less than 100km and displays it in ascending order",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "laura barros",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "question1",
+  "version": "1.0.0",
+  "description": "creates a function that returns cloned objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "laura barros",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
